@@ -1,0 +1,11 @@
+{
+  "manifest_version": 3,
+  "name": "Focus Guardian Switch",
+  "version": "1.0",
+  "description": "Toggle Focus Guardian Agent using this Chrome Extension",
+  "action": {
+    "default_popup": "popup.html",
+    "default_icon": "icon.png"
+  },
+  "permissions": ["scripting"]
+}
